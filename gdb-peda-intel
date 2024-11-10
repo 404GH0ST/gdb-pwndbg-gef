@@ -1,2 +1,0 @@
-#!/bin/sh
-exec gdb -q -ex init-peda-intel "$@"
